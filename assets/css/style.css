@@ -1,0 +1,38 @@
+body {
+    background-color: #fafafa;
+}
+h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #6f86d6;
+    margin-bottom: 30px;
+}
+button[type="submit"] {
+    background-image: linear-gradient(to right, #48c6ef, #6f86d6);
+    border: none !important;
+    min-width: 150px;
+    text-transform: uppercase;
+    font-size: 14px !important;
+    width: 100%;
+}
+.form-control, .btn {
+    border-radius: 5px;
+    height: 45px;
+}
+.login-form-container,
+.form-container {
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 30vh;
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px #eee;
+}
+.form-container {
+    width: inherit;
+    margin-top: 10vh;
+}
+.btn-add {
+    float: right;
+}
