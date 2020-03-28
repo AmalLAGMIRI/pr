@@ -9,12 +9,7 @@
     
    
     <link rel="stylesheet" href="./assets/css/style1.css">
-   
 
-
-
-   
-    
 </head>
 <body>
     <div class="container">
